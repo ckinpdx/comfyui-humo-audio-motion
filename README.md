@@ -18,7 +18,7 @@ Each attention type gets 4 independent numeric controls (Q/K/V/O), totaling 12 a
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_USERNAME/ComfyUI-HuMo-AudioAttnBoost
+git clone https://github.com/ckinpdx/ComfyUI-HuMo-AudioAttnBoost
 ```
 Restart ComfyUI.
 
